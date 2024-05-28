@@ -10,4 +10,5 @@ Miguel de Andrade- mjfa@cesar.school <br>
 Pamela Bezerra e Tiago Barros <br>
 
 Makefile utilizado:<br>
-![image](https://github.com/xjuveri/ArcadeDeDisparos/assets/126585562/c8b12773-b7ed-43d0-accb-0550b49b6992)
+![Captura de tela 2024-05-28 193743](https://github.com/xjuveri/ArcadeDeDisparos/assets/126585562/ba434c7c-28d2-4f89-85dd-14152ec64b45)
+
